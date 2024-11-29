@@ -1,0 +1,38 @@
+html{
+    background-color:rgb(9, 14, 15);
+
+}
+h1{
+    font-family: "Gelasio", serif;
+    font-weight:2400;
+    color:rgb(161, 136, 105);
+    background-color:;
+    text-align:center;
+    
+}
+
+.div{
+    
+    width:50%;
+    margin-left:25%;
+    
+    
+}
+.img{
+    width:50%;
+    border:10px solid rgb(35, 85, 101);
+    margin-left:25%;
+
+}
+h3{
+    text-align:center;
+    text-transform:capitalize;
+    color:rgb(157, 133, 98);
+    font-family:  "Rye", serif;
+    
+
+
+}
+h4{
+color:darkgray
+}
